@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+This Rails app was written as part of a pair programming excercise. The app is an online shop that sells model kits.
